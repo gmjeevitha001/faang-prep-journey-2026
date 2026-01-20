@@ -1,3 +1,6 @@
+// Time Complexity: O(m × n)
+// Space Complexity: O(1)
+
 class Solution {
     public int maximumWealth(int[][] accounts) {
         int maxWealth = 0;
