@@ -1,3 +1,6 @@
+// Optimized using prefix sum
+// Time: O(n), Space: O(n)
+
 class Solution {
     public int[] runningSum(int[] nums) {
         int[] result = new int[nums.length];
